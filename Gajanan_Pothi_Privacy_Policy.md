@@ -1,7 +1,7 @@
 
 # Privacy Policy for Gajanan Pothi App
 
-**Effective Date**: [Insert Date]
+**Effective Date**: September 08, 2024
 
 ## Introduction
 
