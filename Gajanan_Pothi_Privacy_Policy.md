@@ -11,6 +11,10 @@ We, at the Gajanan Pothi app, respect your privacy. This privacy policy outlines
 
 We do not collect, store, or process any personal data from users of the Gajanan Pothi app. The app is designed to be used without requiring you to provide any personal information, such as names, email addresses, or phone numbers.
 
+## App Purpose and Developer Information
+
+The Gajanan Pothi app is purely created for the devotees of Gajanan Maharaj. It is completely free to use, and there is no income or financial gain for the developer from this app.
+
 ## Third-Party Services
 
 The Gajanan Pothi app does not use any third-party services that track or collect your data, such as analytics, advertising, or social media plugins.
